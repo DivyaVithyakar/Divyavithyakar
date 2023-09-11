@@ -15,7 +15,7 @@ An aspiring SDET who is looking for opportunities in the QA industry.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  In my day-to-day life, you'll often find me juggling between code commits and the pages of my favorite books. 📖👩‍💻
 
-###Technologies & Tools
+Technologies & Tools
 
 ✔ Frond-End-Automation(UI) - Selenium Webdriver with Java.
 
@@ -45,4 +45,4 @@ An aspiring SDET who is looking for opportunities in the QA industry.
 
 ✔ Others - SQL commands, Design Patterns, Agile Methodology, Test Methodologies,AWS Basics,.
 
--->
+
