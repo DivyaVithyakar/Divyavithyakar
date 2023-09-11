@@ -15,21 +15,34 @@ An aspiring SDET who is looking for opportunities in the QA industry.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  In my day-to-day life, you'll often find me juggling between code commits and the pages of my favorite books. 📖👩‍💻
 
-##Technologies & Tools
+###Technologies & Tools
 
 ✔ Frond-End-Automation(UI) - Selenium Webdriver with Java.
+
 ✔ Back-End-Automation(API) - Restful Automation with Postman, RestAssured & GraphQL.
-✔Performance Testing - LoadRunner
+
+✔Performance Testing - LoadRunner.
+
 ✔Misuse Testing - Burp Suite.
+
 ✔ Unit test tools - Junit, TestNG.
+
 ✔ Programming Languages - Java (7 & 8).
+
 ✔ Data Structures - String, Arrays, Stacks, Queues, LinkedList, List, Set, Map, Trees.
+
 ✔ Algorithms - Two pointers, Sliding Window, Hashing, Binary Search, Recursion.
+
 ✔ Dev-OPS-Automation - Jenkins Pipelines, Github.
+
 ✔ Project Management - JIRA.
+
 ✔ Source Control -Bitbucket, GIT.
+
 ✔ Manual Testing - Integration testing, Test Case, and Test Data Enumeration.
+
 ✔ CICD- Jenkins, Teamcity.
+
 ✔ Others - SQL commands, Design Patterns, Agile Methodology, Test Methodologies,AWS Basics,.
 
 -->
