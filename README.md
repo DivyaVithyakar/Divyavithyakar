@@ -3,14 +3,13 @@
 
 Passionate about Automation | Consistent Learner | Solution Finder | Mom of Amazing Kid 😊
 
-Test Automation Engineer with a proven track record in the software industry, boasting 8+ years of expertise in Test Engineering. Specializing in the design, development, and upkeep of robust test automation frameworks.
+Test Automation Engineer with a proven track record in the software industry, boasting 9+ years of expertise in Test Engineering. Specializing in the design, development, and upkeep of robust test automation frameworks.
 
 An aspiring SDET who is looking for opportunities in the QA industry.
 
-- 🔭 I’m currently working on enhancing my problem-solving skills
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 🤔 I’m looking for help with actively pursuing SDET opportunities in product-focused firms.
-- 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving.
+- 🔭 Currently working on enhancing problem-solving skills and mastering DevOps practices using Groovy & Bash scripting.
+- 🌱 Actively learning Data Structures and Algorithms to deepen technical proficiency and problem-solving abilities.
+- 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving, DevOps practices, Groovy & Bash scripting.
 - 📫 How to reach me: divyarbe@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  In my day-to-day life, you'll often find me juggling between code commits and the pages of my favorite books. 📖👩‍💻
