@@ -1,47 +1,63 @@
 ### Hi there 👋 This is Divya Ramanujam,
 
 
-Passionate about Automation | Consistent Learner | Solution Finder | Mom of Amazing Kid 😊
+🚀 SDET | DevOps Enthusiast | AI Learner | Problem Solver | Mom of an Amazing Kid 😊
 
-Test Automation Engineer with a proven track record in the software industry, boasting 9+ years of expertise in Test Engineering. Specializing in the design, development, and upkeep of robust test automation frameworks.
+SDET with 10+ years of experience in Test Engineering & DevOps, specializing in designing, developing, and maintaining scalable automation frameworks. Recently, I have been exploring the AI landscape, having completed Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Time Series forecasting.
 
-An aspiring SDET who is looking for opportunities in the QA industry.
 
-- 🔭 Currently working on enhancing problem-solving skills and mastering DevOps practices using Groovy & Bash scripting.
-- 🌱 Actively learning Data Structures and Algorithms to deepen technical proficiency and problem-solving abilities.
-- 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving, DevOps practices, Groovy & Bash scripting.
-- 📫 How to reach me: divyarbe@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:  In my day-to-day life, you'll often find me juggling between code commits and the pages of my favorite books. 📖👩‍💻
+- 🔭 **Currently working on:** Enhancing problem-solving skills, building efficient CI/CD pipelines, integrating AI-driven automation, and mastering ML, DL, NLP, and Time Series analysis.
+- 🌱 **Learning & Expanding In:** AI & ML (ML, DL, NLP, Time Series), DevOps (Groovy, Bash, CI/CD), Problem-Solving (DS, Algorithms, System Design).
+- 💬 **Ask Me About:** Test Engineering & Automation, DevOps & CI/CD Pipelines, AI & ML (ML, DL, NLP, Time Series), Groovy & Bash Scripting, Software Testing Methodologies, Problem Solving (DS, Algorithms).
+- 📫 **How to reach me:** divyarbe@gmail.com
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:**  You'll often find me juggling between code commits , AI models and the pages of my favorite books. 📖👩‍💻
 
-Technologies & Tools
+🛠️ **Technologies & Tools:**
 
-✔ Frond-End-Automation(UI) - Selenium Webdriver with Java.
+🚀 **DevOps & Automation**
 
-✔ Back-End-Automation(API) - Restful Automation with Postman, RestAssured & GraphQL.
+✔ CI/CD → Jenkins Pipelines, GitHub Actions
 
-✔Performance Testing - LoadRunner.
+✔ Scripting → Groovy, Bash
 
-✔Misuse Testing - Burp Suite.
+✔ Source Control → Git, Bitbucket
 
-✔ Unit test tools - Junit, TestNG.
+✔ Cloud & Infrastructure → GCP
 
-✔ Programming Languages - Java (7 & 8).
+🧠 **AI & Machine Learning**
 
-✔ Data Structures - String, Arrays, Stacks, Queues, LinkedList, List, Set, Map, Trees.
+✔ ML Algorithms → Regression, Classification, Clustering
 
-✔ Algorithms - Two pointers, Sliding Window, Hashing, Binary Search, Recursion.
+✔ Deep Learning → Neural Networks, CNN, RNN (On the horizon)
 
-✔ Dev-OPS-Automation - Jenkins Pipelines, Github.
+✔ NLP → Tokenization, Named Entity Recognition, Sentiment Analysis (On the horizon)
 
-✔ Project Management - JIRA.
+✔ Time Series Forecasting → ARIMA, LSTMs (On the horizon)
 
-✔ Source Control -Bitbucket, GIT.
+🖥️ T**est Automation & QA**
 
-✔ Manual Testing - Integration testing, Test Case, and Test Data Enumeration.
+✔ UI Automation → Selenium WebDriver (Java)
 
-✔ CICD- Jenkins, Teamcity.
+✔ API Testing → RestAssured, Postman, GraphQL
 
-✔ Others - SQL commands, Design Patterns, Agile Methodology, Test Methodologies,AWS Basics,.
+✔ Performance Testing → LoadRunner
 
+✔ Unit Testing → JUnit, TestNG
+
+📌 **Programming & Data Structures**
+
+✔ Languages → Python, Java
+
+✔ DSA → Arrays, Stacks, Queues, LinkedList, Trees, Graphs
+
+✔ Algorithms → Two Pointers, Sliding Window, Binary Search, Hashing, Recursion
+
+📊 **Project & Test Management**
+
+✔ Agile, Jira, Test Case & Test Data Enumeration
+
+🔄 **Looking Ahead**
+
+🚀 Excited to integrate AI/ML Ops into automation frameworks and enhance DevOps pipelines with AI-driven solutions for smarter, more efficient operations.
 
